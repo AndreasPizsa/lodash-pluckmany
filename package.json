@@ -1,0 +1,11 @@
+{
+  "name": "lodash-pluckmany",
+  "version": "0.0.1",
+  "description": "_.pluckMany(array,'a','b','c')",
+  "main": "pluckmany.js",
+  "repository": "",
+  "author": "Andreas Pizsa <andreas.pizsa+npm@gmail.com>",
+  "peerDependencies" : {
+    "lodash": "^3.10.1"
+  }
+}
