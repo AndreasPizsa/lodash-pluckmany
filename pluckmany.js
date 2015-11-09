@@ -1,4 +1,4 @@
-_ = require('lodash');
+var _ = require('lodash');
 
 /* http://stackoverflow.com/a/27514972/199263 */
 
