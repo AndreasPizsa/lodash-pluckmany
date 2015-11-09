@@ -1,12 +1,12 @@
 {
   "name": "lodash-pluckmany",
-  "version": "0.0.2",
-  "description": "_.pluckMany(array,'a','b','c')",
+  "version": "0.0.3",
+  "description": "_.pluck multiple properties. _.pluckMany(array,'a','b','c')",
   "main": "pluckmany.js",
-  "repository": "",
   "author": "Andreas Pizsa <andreas.pizsa+npm@gmail.com>",
   "peerDependencies" : {
     "lodash": "~3.0"
   },
-  "repository": "https://github.com/AndreasPizsa/lodash-pluckmany"
+  "repository": "https://github.com/AndreasPizsa/lodash-pluckmany",
+  "keywords": ["lodash", "pluck", "many", "multiple", "properties", "attributes", "fields"]
 }
