@@ -2,6 +2,8 @@ Just like pluck, except for multiple properties.
 
 ### Usage
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/AndreasPizsa/lodash-pluckmany.svg)](https://greenkeeper.io/)
+
     var users = [
         { 'user': 'barney', 'age': 36 },
         { 'user': 'fred',   'age': 40 }
